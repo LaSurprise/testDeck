@@ -1,15 +1,25 @@
-testDeck
-========
+Our First Shiny Application : "ShinyTest_StormData"
+==================================================
+The goal of this work was to develop and document a shiny application. In order to reach this goal, we used data from the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database.
+ We specially worked with data from 1950 to 2011.   
 
-This is a test deck for publishing a slidify document.
+With this application, you can display the most harmful events or the trend since 1950.   
+ You can also choose outcome to display : fatalities, injuries, economic cost.   
 
-Fork this repo.
+Some features have been added just to manipulate sliders and others kind of input. 
 
-Make an edit to this readme file on gh-pages branch. (You can do this directly on the github site by clicking on the readme file and then clicking edit)
+Shiny Application has two parts : ui.R and server.R files 
 
-Commit the change.
+Doc.md gives more details on what you need to do so that everything will be OK. 
 
-Go to username.github.io/testDeck/index.html
-And the presentation should be rendered
+Tests were perfect with RStudio. 
+ 
+   
 
-
+Status
+ API
+ Training
+ Shop
+ Blog
+ About
+ 
